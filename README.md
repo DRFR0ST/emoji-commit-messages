@@ -25,7 +25,8 @@ Fork and modify to suit your needs. Don't forget to "star" and share the love.
 | `🎉` | :tada: | `:tada:` | `party popper` | initial commit |
 | `✨` | :sparkles: | `:sparkles:` | `sparkles` | when adding a new user-facing feature |
 | `🎨` | :art: | `:art:` | `artist palette` | when improving UI |
-| `📦` | :package: | `:package:` | `package` | when refactoring or improving code |
+| `📦` | :package: | `:package:` | `package` | when installing dependencies |
+| `♻️` | :recycle: | `:recycle:` | `recycle` | when refactoring or improving code |
 | `🐎` | :racehorse: | `:racehorse:` | `horse` | when improving performance |
 | `🔒` | :lock: | `:lock:` | `locked` | when improving security |
 | `🔧` | :wrench: | `:wrench:` | `wrench` | when updating configs |
